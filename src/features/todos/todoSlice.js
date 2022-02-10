@@ -27,7 +27,6 @@ export default function todosReducer(state = initialState, action) {
         if (todo.id !== action.payload) {
           return todo
         }
-
         return {
           ...todo,
           completed: !todo.completed,

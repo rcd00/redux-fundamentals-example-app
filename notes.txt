@@ -1,0 +1,7 @@
+1) created reducers
+2) separated reducers into slices 
+3) created state under index.js
+  subscribe => dispatch => unsubscribe
+
+  continue:
+  Creating a Store with Enhancers​

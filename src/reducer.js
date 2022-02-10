@@ -9,3 +9,5 @@ const rootReducer = combineReducers({
 })
 
 export default rootReducer
+
+// https://redux.js.org/tutorials/fundamentals/part-4-store
